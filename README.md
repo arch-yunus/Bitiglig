@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/banner.png" alt="Bitiglig Banner" width="100%">
+</div>
+
 # 🐺 Bitiglig
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
